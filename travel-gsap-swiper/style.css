@@ -47,6 +47,7 @@ body {
     font-size: var(--normal-font-size);
     background-color: var(--body-color);
     color: var(--text-color);
+    height: 100vh;
 }
 
 h1,
@@ -73,7 +74,6 @@ img {
 /* ====== LAYOUT ====== */
 .main {
     position: relative;
-    height: 100vh;
 }
 
 .container,
